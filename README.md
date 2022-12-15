@@ -47,8 +47,6 @@ npm install react-router-dom@6
 
 ```
 
----
-
 ```
 **To install React Axios**
 
