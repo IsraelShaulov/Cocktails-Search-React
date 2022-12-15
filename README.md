@@ -38,6 +38,7 @@ If an error occurs `'CI' is not recognized as an internal or external command, o
 
 ---
 
+```
 **To install React router 6**
 
 ```sh
