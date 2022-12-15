@@ -45,9 +45,7 @@ If an error occurs `'CI' is not recognized as an internal or external command, o
 npm install react-router-dom@6
 ```
 
-```
 
-```
 **To install React Axios**
 
 ```sh
