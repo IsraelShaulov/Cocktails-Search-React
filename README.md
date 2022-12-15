@@ -37,16 +37,11 @@ If an error occurs `'CI' is not recognized as an internal or external command, o
 ```
 
 ---
+
 **To install React router 6**
 
-```
+```sh
 npm install react-router-dom@6
-```
-
----
-**To install React Axios**
-```
-npm install react-axios
 ```
 
 
