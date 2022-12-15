@@ -35,17 +35,17 @@ If an error occurs `'CI' is not recognized as an internal or external command, o
 "build": "CI= react-scripts build",
 
 ```
----
 
+---
 **To install React router 6**
 
-```sh
+```
 npm install react-router-dom@6
 ```
 
 ---
-**To install React Axios*
-
+**To install React Axios**
+```
 npm install react-axios
 ```
 
